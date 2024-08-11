@@ -1,0 +1,8 @@
+token = "5633821063:AAGYAwJMm4gVCAeCntZ6M0IVLZJLIxWqPqA"
+url_weather_minsk = "https://www.meteoservice.ru/weather/now/minsk"
+url_weather_grodno = "https://www.meteoservice.ru/weather/now/grodno"
+url_weather_brest = "https://www.meteoservice.ru/weather/now/brest"
+url_weather_gomel = "https://www.meteoservice.ru/weather/now/gomel"
+url_weather_mogilev = "https://www.meteoservice.ru/weather/now/mogilev"
+url_weather_vitebsk = "https://www.meteoservice.ru/weather/now/vitebsk"
+agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84"
